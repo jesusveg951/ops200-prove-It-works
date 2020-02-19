@@ -15,3 +15,4 @@ module.exports = class Mortgage {
         return monthlyPayment
     }
     }
+    
